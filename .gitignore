@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+/messageBox.sln
+/messageBox.vcxproj
+/messageBox.vcxproj.filters
+/messageBox.vcxproj.user
+messageBox/*
+x64/*
+.vs/*
+Debug/*
